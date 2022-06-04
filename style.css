@@ -1,0 +1,149 @@
+
+.gunler {
+
+-fx-text-fill: black;
+-fx-font-family:   Garamond, serif;
+-fx-font-weight: bold;
+-fx-font-size: 20px;
+-fx-text-float: center;
+}
+
+
+.button {
+-fx-background-radius: 10px;
+-fx-background-color: #C4AEAD;
+-fx-text-fill: black;
+
+}
+
+
+
+.buttongeldi {
+-fx-background-radius: 10px;
+-fx-background-color: #3EB489;
+-fx-text-fill: black;
+}
+
+.buttongtatil {
+-fx-background-radius: 10px;
+-fx-background-color: #808000;
+-fx-text-fill: black;
+}
+
+.buttonozel {
+-fx-background-radius: 10px;
+-fx-text-fill: black;
+}
+
+.buttoncheck {
+-fx-background-radius: 0px;
+-fx-border: 10px;
+-fx-background-color: white;
+-fx-text-fill: black;
+-fx-border-color: black;
+}
+
+.buttonhasta {
+-fx-background-radius: 10px;
+-fx-background-color: #FBB917;
+-fx-text-fill: black;
+}
+
+
+.Labeltemp {
+
+-fx-text-fill: black;
+-fx-font-family:  helvetica;
+-fx-font-weight: bold;
+}
+
+.LabelStart {
+
+-fx-text-fill: black;
+-fx-font-family:  Comic Sans MS;
+-fx-font-weight: bold;
+-fx-font-size: 15;
+
+}
+
+.anchor {
+    -fx-background-image:url('file:/C:/Users/Nuceyma/IdeaProjects/PKDD/src/main/resources/com/example/pkdd/images/back3.jpg');
+
+}
+.anchor2 {
+    -fx-background-image:url('file:/C:/Users/Nuceyma/IdeaProjects/PKDD/src/main/resources/com/example/pkdd/images/back2.png');
+
+}
+.anchor1 {
+    -fx-background-color: #FFFAFA;
+}
+
+.anchor1_buton {
+    -fx-background-color: #728FCE;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-border-insets: 2;
+
+}
+
+.textfield{
+
+-fx-accent: #007acc;
+-fx-background-radius: 10px;
+-fx-background-color: #FFFAFA;
+-fx-border-radius:0px;
+
+}
+
+.textfield1{
+
+-fx-accent: #007acc;
+-fx-background-radius: 10px;
+-fx-background-color: white;
+
+}
+
+.buttonAdd{
+-fx-background-radius: 10px;
+-fx-background-color: #EDC9AF;
+-fx-content-display: bottom;
+
+-fx-text-fill: black;
+-fx-font-family:  Comic Sans MS;
+-fx-font-weight: bold;
+-fx-font-size: 15;
+}
+
+
+
+.text-field text{
+    -fx-accent: #007acc;
+    -fx-background-color: -fx-text-box-border, -fx-background ;
+    -fx-background-insets: 0, 0 0 1 0 ;
+    -fx-background-radius: 0 ;
+}
+.text-field:focused text{
+    -fx-background-color: -fx-focus-color, -fx-background ;
+}
+
+.text-area .content {
+    -fx-background-color:  #FFF5EE ;
+}
+
+.textfield2{
+
+-fx-accent: #FFF5EE;
+-fx-background-radius: 10px;
+-fx-background-color: #FFF5EE;
+
+}
+
+
+
+
+
+
+
+
+
+
